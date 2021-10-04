@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 
-const ENDPORT = "http://localhost:5000/data";
+const ENDPORT = "https://git.heroku.com/eassy-server.git/data";
 
 interface dataProps {
   id: number;
